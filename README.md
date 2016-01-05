@@ -11,4 +11,7 @@ ___________________________________
 - Print details of given data when prompted.
 - How to create a text file in a specified location.
 
+___________________________________
+Additional documentation of the script can be found in the main repository.
+
 Program has been written back in 2013 for my school purposes. Code is an Open Source, you can edit it, share it however you want, but credits of the original author are a MUST.
