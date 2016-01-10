@@ -4,7 +4,7 @@ Very simple C program which is allowing user to maintain data stored in a text f
 
 ___________________________________
 - Display user a menu to edit data.
-- Add data to the file.
+- Write data to the file (binary).
 - Amend data in a file of requested data given by a user.
 - Delete (hide) data from the file. So it won't be read anymore.
 - Restore (show after deleteing) data back to the text file.
